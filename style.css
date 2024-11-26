@@ -120,4 +120,8 @@ a {
         font-size: 18px; 
         cursor: none;
     }
+
+    #downloadBtn {
+        display: none;
+    }
 }
